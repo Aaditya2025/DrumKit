@@ -27,7 +27,7 @@ function makesound(key){
             break; 
 
         case 'a':
-            var tom2 = new Audio("sounds/prabh.mp3");
+            var tom2 = new Audio("sounds/tom-3.mp3");
             tom2.play();
             break;
 
@@ -37,7 +37,7 @@ function makesound(key){
             break;
 
         case 'd':
-            var tom4 = new Audio("sounds/tom-1.mp3");
+            var tom4 = new Audio("sounds/tom-2.mp3");
             tom4.play();
             break;
 
@@ -52,7 +52,7 @@ function makesound(key){
             break;
 
         case 'l':
-            var snare = new Audio("sounds/laado.mp3");
+            var snare = new Audio("sounds/tom-4.mp3");
             snare.play();
             break;
 
